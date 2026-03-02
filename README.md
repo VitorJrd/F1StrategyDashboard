@@ -6,12 +6,12 @@ An F1 race strategy dashboard built with FastAPI, React, PostgreSQL, and Docker 
 
 ## Features
 
-- 📅 **Race Selector** — Browse any race from any F1 season
-- 📈 **Lap Time Chart** — Compare lap time evolution across drivers throughout a race
-- 🛞 **Tire Strategy View** — Visual timeline of each driver's tire stints and compounds
-- 🔧 **Pit Stop Table** — Full pit stop breakdown with lap numbers per driver
-- ⚡ **DB Caching** — Race data is fetched once from FastF1 and stored in PostgreSQL for instant repeat loads
-- 🐳 **Fully Dockerized** — One command to spin up the entire stack
+- **Race Selector** — Browse any race from any F1 season
+- **Lap Time Chart** — Compare lap time evolution across drivers throughout a race
+- **Tire Strategy View** — Visual timeline of each driver's tire stints and compounds
+- **Pit Stop Table** — Full pit stop breakdown with lap numbers per driver
+- **DB Caching** — Race data is fetched once from FastF1 and stored in PostgreSQL for instant repeat loads
+- **Fully Dockerized** — One command to spin up the entire stack
 
 ---
 
